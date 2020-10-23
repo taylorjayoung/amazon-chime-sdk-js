@@ -10,9 +10,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Demo] Add default SSE to meeting notifications queue in CF template
 
 ### Changed
-- Removed check for iceGatheringState to be complete for bypassing gathering ice candidate again
+- [Documentation] Updated HTTP to HTTPS in README URL links
+- [Test] Updated browserstack URL formation to use HTTPS
 
 ### Removed
+- Removed check for iceGatheringState to be complete for bypassing gathering ice candidate again
 
 ### Fixed
 - Allow the build to complete in the absence of a Git checkout.
