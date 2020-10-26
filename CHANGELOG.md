@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Changed
 - Removed check for iceGatheringState to be complete for bypassing gathering ice candidate again
+- [Demo] change optional feature selection to be list of input box to allow combination
 
 ### Removed
 
